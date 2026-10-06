@@ -145,5 +145,12 @@ The dashboard can be used to answer questions such as:
 - How many transactions are flagged as suspected fraud?
 
 ---
+## Dataset
 
+The dataset used in this project is available here:
+
+<a href="https://drive.google.com/drive/folders/1SxSmd7fFdMOBzcyyZHZmId0gAZg-atI6">View Dataset</a>
+
+note: I didn't upload the whole dataset in 'raw_data' file cause it was way too large so you can access the whole data set from this link.
+---
 
